@@ -9,7 +9,7 @@ wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.1
 wp-content/plugins/hello.1
-
+yes
 /.htaccess
 /license.txt
 /readme.html
